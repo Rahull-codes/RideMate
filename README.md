@@ -15,4 +15,4 @@ A live demo of the project can also be viewed on [LikedIn](#).
   
   OR
                   
-🔗 **[Click here to watch the demo]( )**  
+🔗 **[Click here to watch the demo](https://streamable.com/yc1cl5)**  
