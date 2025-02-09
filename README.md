@@ -12,7 +12,7 @@ This is a ride-hailing application built using the MERN stack (MongoDB, Express.
 
 ## Demo/Preview
 A live demo of the project can also be viewed on [LikedIn](#).
-
-                  OR
+  
+  OR
                   
 🔗 **[Click here to watch the demo]( )**  
