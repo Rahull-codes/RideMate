@@ -11,6 +11,6 @@ This is a ride-hailing application built using the MERN stack (MongoDB, Express.
 - Socket-based real-time communication
 
 ## Demo/Preview
-A live demo of the project can also be viewed [LikedIn](#).
-
+A live demo of the project can also be viewed on [LikedIn](#).
+                  OR
 🔗 **[Click here to watch the demo]( )**  
